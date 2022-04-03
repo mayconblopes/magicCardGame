@@ -1,4 +1,4 @@
-"CardGameAdvinhação"
+"CardGameAdvinhação."
 
 
 from random import randint
